@@ -87,6 +87,7 @@ author:
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "andrewb1999@gmail.com"
+  cornellemail     : "atb78@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -108,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
